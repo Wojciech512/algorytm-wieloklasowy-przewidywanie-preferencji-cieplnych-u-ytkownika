@@ -1,0 +1,1 @@
+# algorytm-wieloklasowy-przewidywanie-preferencji-cieplnych-u-ytkownika
